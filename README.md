@@ -4,7 +4,7 @@
 </h2>
 
 <h3 align="center">
-    <a href="https://color-flipperrr.netlify.app/" target="_blank">Life Demo</a>
+    <a href="https://hover-boarddd.netlify.app/" target="_blank">Life Demo</a>
 </h3>
 
 
