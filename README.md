@@ -1,4 +1,4 @@
-<h1 align="center">Color Flipper</h1>
+<h1 align="center">Hover-Board</h1>
 <h2 align="center">
 <img src="./readme_img/header.png">
 </h2>
